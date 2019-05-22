@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        practice_nuxt
+        practice_nuxt!
       </h1>
       <h2 class="subtitle">
         My stupendous Nuxt.js project
